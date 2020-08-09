@@ -1,11 +1,12 @@
-### Hey, I'm Simone! 😁
-
+### Hey, I'm Simone! 😁 
 ## I'm a computer science student currently based in <img src="https://abs-0.twimg.com/emoji/v2/svg/1f1ee-1f1f9.svg" width="22px" alt="Italy Flag" align="center"/> Italy, looking forward to building my place into the CS community. 
 
 - 🔭 I’m currently working on a NodeJS / React / MongoDB / GraphQL based open source CMS.
 - 🌱 I’m currently learning how to live.
 - 👯 I’m looking to collaborate on pretty much any project as long as I have the required skills.
 - 🎂 Goals for this year: working up my personal brand through open source projects.
+
+<br />
 
 ### Languages and Tools:
 
@@ -25,6 +26,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br/>
+
+---
+
+<br/>
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xNicklaj&show_icons=true&hide_border=true" />
 
 <!--
 **xNicklaj/xNicklaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
