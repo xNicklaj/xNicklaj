@@ -8,8 +8,7 @@
 
 <br />
 
-### Skills
-#### Webdev:
+### Skills:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -20,7 +19,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-#### Gamedev:
+
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />
@@ -28,7 +27,6 @@
 <img align="left" alt="Adobe Flash CS6" width="26px" src="https://raw.githubusercontent.com/github/explore/975c04bcfe29c2e39d54738182bfea2ba49ce48e/topics/actionscript/actionscript.png" />
 <img align="left" alt="Unity" width="26px" src="https://unity.com/favicon.ico" />
 
-#### General:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
