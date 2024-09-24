@@ -25,7 +25,7 @@
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />
 <img align="left" alt="CMake" width="26px" src="https://cmake.org/favicon.ico" />
 <img align="left" alt="Adobe Flash CS6" width="26px" src="https://raw.githubusercontent.com/github/explore/975c04bcfe29c2e39d54738182bfea2ba49ce48e/topics/actionscript/actionscript.png" />
-<img align="left" alt="Unity" width="26px" src="https://unity.com/favicon.ico" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.sanity.io/images/fuvbjjlp/production/2495ab2daae11fd3ed5d6b84477d513869f9a1b4-89x100.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
