@@ -3,7 +3,7 @@
 
 - 🎓 I'm graduated in a Computer Engineering bachelor at [Politecnico di Torino](https://www.polito.it).
 - 🔭 I’ve previously worked on multiple Skyrim mods that you can find on my [nexus profile](https://next.nexusmods.com/profile/ItsNicklaj/about-me).
-- 🎮 I’m currently learning how to develop videogames, that I publish on my [itch.io profile](https://itch.io/nicklaj).
+- 🎮 I’m currently learning how to develop videogames, that I publish on my [itch.io profile](https://nicklaj.itch.io).
 - 👯 I’m looking to collaborate on pretty much any project.
 - 🎂 Goals for this year: graduating from my master degree in Cinema and Digital Media engineering and starting my gamedev adventure.
 
